@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #181818;
+    /* color: #333; */
+    font-family: aepnik;
+    scroll-behavior:smooth;
+    
+    
+}
+img{
+    height: 100vh;
+    width: auto;
+    /* margin: 10px auto; */
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
